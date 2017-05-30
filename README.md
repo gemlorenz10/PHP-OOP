@@ -1,7 +1,7 @@
 # PHP-OOP Study(Object-Oriented Programming)
-      This project is used for educational purposes only. 
-    I'm a complete beginner I will consider any advice from you.
-    These are the examples I made to get my hands dirty while studying PHP.
+    - This project is used for educational purposes only. 
+    - I'm a complete beginner I will consider any advice from you.
+    - These are just examples I made to get my hands dirty while studying PHP.
 
 ## DOCUMENTATION
 - [Supporting document of the study](https://docs.google.com/document/d/11uEkJlI-CwHJp4_AttPo3lRsObEZsfArG-3OVFt1j1M/edit#heading=h.jpuant2xbsab) - Can only be open for specific people.
