@@ -2,7 +2,7 @@
 class Counter{
 public $number;
 
-function __construct($num){
+function __construct( $num ){
     $this->number = $num;
     $this->counter();
 }
@@ -12,7 +12,7 @@ function __destruct(){
 }
 
 function counter(){
-    for($a = 0; $a <= $this->number; $a++ ){
+    for( $a = 0; $a <= $this->number; $a++ ){
         echo 'Count is ' . $a . '<br>';
     }
 }
@@ -20,7 +20,7 @@ function counter(){
 
 class RevCounter extends Counter{
     
-    function __construct($num){
+    function __construct( $num ){
         $this->number = $num;
         $this->RevCounter();
     }
@@ -32,7 +32,7 @@ class RevCounter extends Counter{
     }
 
     function RevCounter(){
-        for($a = $this->number; $a > 0; $a--){
+        for( $a = $this->number; $a > 0; $a-- ){
             echo 'Count is ' . $a . '<br>';
         }
     }
